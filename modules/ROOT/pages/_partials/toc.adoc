@@ -1,0 +1,3 @@
+* xref::knative-ocp-4x.adoc[Knative on an OpenShift cluster 4.0]
+* xref::native-ocp-311.adoc[Knative on an OpenShift cluster 3.11]
+* xref::knative-minishift.adoc[Knative on a Minishift cluster]

@@ -1,0 +1,8 @@
+include::_partials/attributes.adoc[]
+
+:context: knative-minishift
+
+[knative-minishift]
+= Knative on a Minishift cluster
+
+

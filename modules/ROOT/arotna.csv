@@ -1,0 +1,4 @@
+level,prefix,heading,slug,navtext
+1,*,Knative on an OpenShift cluster 4.0,knative-ocp-4x,Knative on OCP 4x
+1,*,Knative on an OpenShift cluster 3.11,native-ocp-311,Knative on OCP 3.11
+1,*,Knative on a Minishift cluster,knative-minishift,Knative on Minishift

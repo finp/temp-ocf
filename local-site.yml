@@ -1,0 +1,12 @@
+site:
+  title: OpenShift Cloud Functions (OCF)
+  url: http://localhost:8080
+  start_page: ocf-docs::index 
+content:
+  sources:
+  - url: .
+    branches: HEAD
+ui:
+  bundle:
+    url: ./ui-bundle.zip
+    snapshot: true

@@ -1,0 +1,6 @@
+name: ocf-docs
+title: OpenShift Cloud Functions (OCF)
+version: 'latest'
+start_ROOT: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc

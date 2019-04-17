@@ -1,0 +1,8 @@
+include::_partials/attributes.adoc[]
+
+:context: knative-ocp-4x
+
+[knative-ocp-4x]
+= Knative on an OpenShift cluster 4.0
+
+
